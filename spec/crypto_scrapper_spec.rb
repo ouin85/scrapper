@@ -2,8 +2,8 @@ require 'nokogiri'
 require 'open-uri'
 require_relative '../lib/crypto_scrapper'
 
-describe "The open_uri method" do
-  it "should return un HTML Document" do
+describe "The open_page_at_ method" do
+  it "should return a HTML Document" do
     expect(open_page_at_('https://coinmarketcap.com/all/views/all/')).to be_an_instance_of(Nokogiri::HTML::Document)
   end
 end
