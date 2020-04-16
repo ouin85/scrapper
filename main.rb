@@ -1,5 +1,12 @@
+require 'pry'
 require 'nokogiri'
-require 'restclient'
+require 'open-uri'
+require_relative 'lib/crypto_scrapper'
 
-page = Nokogiri::HTML(RestClient.get("http://en.wikipedia.org/"))   
-puts page.class   # => Nokogiri::HTML::Document
+uri = 'https://coinmarketcap.com/all/views/all/'
+
+begin
+  p upload_cryptocurrencies_from_(uri)
+rescue => e
+  puts e.message
+end
