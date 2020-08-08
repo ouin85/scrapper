@@ -17,7 +17,7 @@
   {
     "first_name": "Olga",
     "last_name": "Givernet",
-    "email": "olga.givernet@assemblee-nationale.fr"
+    "email": ""
   },
   {
     "first_name": "Stéphane",
@@ -290,14 +290,14 @@
     "email": "thomas.rudigoz@assemblee-nationale.fr"
   },
   {
+    "first_name": "Nathalie",
+    "last_name": "Serre",
+    "email": ""
+  },
+  {
     "first_name": "Jean-Louis",
     "last_name": "Touraine",
     "email": "jean-louis.touraine@assemblee-nationale.fr"
-  },
-  {
-    "first_name": "Patrice",
-    "last_name": "Verchère",
-    "email": "patrice.verchere@assemblee-nationale.fr"
   },
   {
     "first_name": "Émilie",
@@ -530,6 +530,11 @@
     "email": "thierry.benoit@assemblee-nationale.fr"
   },
   {
+    "first_name": "Jean-Luc",
+    "last_name": "Bourgeaux",
+    "email": ""
+  },
+  {
     "first_name": "Christine",
     "last_name": "Cloarec-Le Nabour",
     "email": "Christine.Cloarec-lenabour@assemblee-nationale.fr"
@@ -543,11 +548,6 @@
     "first_name": "Gaël",
     "last_name": "Le Bohec",
     "email": "gael.lebohec@assemblee-nationale.fr"
-  },
-  {
-    "first_name": "Gilles",
-    "last_name": "Lurton",
-    "email": "gilles.lurton@assemblee-nationale.fr"
   },
   {
     "first_name": "Laurence",
@@ -572,7 +572,7 @@
   {
     "first_name": "Paul",
     "last_name": "Molac",
-    "email": "paul.molac@assemblee-nationale.fr"
+    "email": ""
   },
   {
     "first_name": "Jimmy",
@@ -810,11 +810,6 @@
     "email": "gerard.menuel@assemblee-nationale.fr"
   },
   {
-    "first_name": "Laurent",
-    "last_name": "Furst",
-    "email": "laurent.furst@assemblee-nationale.fr"
-  },
-  {
     "first_name": "Antoine",
     "last_name": "Herth",
     "email": "antoine.herth@assemblee-nationale.fr"
@@ -823,6 +818,11 @@
     "first_name": "Patrick",
     "last_name": "Hetzel",
     "email": "patrick.hetzel@assemblee-nationale.fr"
+  },
+  {
+    "first_name": "Philippe",
+    "last_name": "Meyer",
+    "email": ""
   },
   {
     "first_name": "Thierry",
@@ -870,6 +870,11 @@
     "email": "bruno.fuchs@assemblee-nationale.fr"
   },
   {
+    "first_name": "Brigitte",
+    "last_name": "Klinkert",
+    "email": ""
+  },
+  {
     "first_name": "Jean-Luc",
     "last_name": "Reitzer",
     "email": "jean-luc.reitzer@assemblee-nationale.fr"
@@ -878,11 +883,6 @@
     "first_name": "Raphaël",
     "last_name": "Schellenberger",
     "email": "raphael.schellenberger@assemblee-nationale.fr"
-  },
-  {
-    "first_name": "Éric",
-    "last_name": "Straumann",
-    "email": "eric.straumann@assemblee-nationale.fr"
   },
   {
     "first_name": "Bérangère",
@@ -1180,9 +1180,9 @@
     "email": "fabien.roussel@assemblee-nationale.fr"
   },
   {
-    "first_name": "Francis",
-    "last_name": "Vercamer",
-    "email": "francis.vercamer@assemblee-nationale.fr"
+    "first_name": "Valérie",
+    "last_name": "Six",
+    "email": ""
   },
   {
     "first_name": "Pascal",
@@ -1425,6 +1425,11 @@
     "email": "laetitia.avia@assemblee-nationale.fr"
   },
   {
+    "first_name": "Sandra",
+    "last_name": "Boëlle",
+    "email": ""
+  },
+  {
     "first_name": "Pierre-Yves",
     "last_name": "Bournazel",
     "email": "pierre-yves.bournazel@assemblee-nationale.fr"
@@ -1433,11 +1438,6 @@
     "first_name": "Marielle",
     "last_name": "de Sarnez",
     "email": "marielle.desarnez@assemblee-nationale.fr"
-  },
-  {
-    "first_name": "Claude",
-    "last_name": "Goasguen",
-    "email": "claude.goasguen@assemblee-nationale.fr"
   },
   {
     "first_name": "Olivia",
@@ -1510,6 +1510,11 @@
     "email": "buon.tan@assemblee-nationale.fr"
   },
   {
+    "first_name": "Sylvie",
+    "last_name": "Bouchet Bellecourt",
+    "email": ""
+  },
+  {
     "first_name": "Stéphanie",
     "last_name": "Do",
     "email": "stephanie.do@assemblee-nationale.fr"
@@ -1533,11 +1538,6 @@
     "first_name": "Rodrigue",
     "last_name": "Kokouendo",
     "email": "rodrigue.kokouendo@assemblee-nationale.fr"
-  },
-  {
-    "first_name": "Valérie",
-    "last_name": "Lacroute",
-    "email": "valerie.lacroute@assemblee-nationale.fr"
   },
   {
     "first_name": "Patricia",
@@ -1685,11 +1685,6 @@
     "email": "gilles.carrez@assemblee-nationale.fr"
   },
   {
-    "first_name": "Luc",
-    "last_name": "Carvounas",
-    "email": "luc.carvounas@assemblee-nationale.fr"
-  },
-  {
     "first_name": "Frédéric",
     "last_name": "Descrozaille",
     "email": "frederic.descrozaille@assemblee-nationale.fr"
@@ -1758,11 +1753,6 @@
     "first_name": "Florence",
     "last_name": "Granjus",
     "email": "florence.granjus@assemblee-nationale.fr"
-  },
-  {
-    "first_name": "Nadia",
-    "last_name": "Hai",
-    "email": "nadia.hai@assemblee-nationale.fr"
   },
   {
     "first_name": "Marie",
@@ -1840,9 +1830,9 @@
     "email": "fabrice.levigoureux@assemblee-nationale.fr"
   },
   {
-    "first_name": "Sébastien",
-    "last_name": "Leclerc",
-    "email": "sebastien.leclerc@assemblee-nationale.fr"
+    "first_name": "Nathalie",
+    "last_name": "Porte",
+    "email": ""
   },
   {
     "first_name": "Alain",
@@ -1895,6 +1885,11 @@
     "email": "stephane.travert@assemblee-nationale.fr"
   },
   {
+    "first_name": "Chantal",
+    "last_name": "Jourdan",
+    "email": ""
+  },
+  {
     "first_name": "Véronique",
     "last_name": "Louwagie",
     "email": "veronique.louwagie@assemblee-nationale.fr"
@@ -1905,11 +1900,6 @@
     "email": "jerome.nury@assemblee-nationale.fr"
   },
   {
-    "first_name": "Joaquim",
-    "last_name": "Pueyo",
-    "email": "joaquim.pueyo@assemblee-nationale.fr"
-  },
-  {
     "first_name": "Damien",
     "last_name": "Adam",
     "email": "damien.adam@assemblee-nationale.fr"
@@ -1918,11 +1908,6 @@
     "first_name": "Xavier",
     "last_name": "Batut",
     "email": "xavier.batut@assemblee-nationale.fr"
-  },
-  {
-    "first_name": "Christophe",
-    "last_name": "Bouillon",
-    "email": "christophe.bouillon@assemblee-nationale.fr"
   },
   {
     "first_name": "Agnès",
@@ -2070,6 +2055,11 @@
     "email": "dominique.david@assemblee-nationale.fr"
   },
   {
+    "first_name": "Christelle",
+    "last_name": "Dubos",
+    "email": ""
+  },
+  {
     "first_name": "Catherine",
     "last_name": "Fabre",
     "email": "catherine.fabre@assemblee-nationale.fr"
@@ -2078,11 +2068,6 @@
     "first_name": "Véronique",
     "last_name": "Hammerer",
     "email": "veronique.hammerer@assemblee-nationale.fr"
-  },
-  {
-    "first_name": "Pascal",
-    "last_name": "Lavergne",
-    "email": ""
   },
   {
     "first_name": "Sophie",
@@ -2102,7 +2087,7 @@
   {
     "first_name": "Loïc",
     "last_name": "Prud'homme",
-    "email": ""
+    "email": "loic.prudhomme@assemblee-nationale.fr"
   },
   {
     "first_name": "Benoit",
@@ -2415,11 +2400,6 @@
     "email": "pierre.morel-a-lhuissier@assemblee-nationale.fr"
   },
   {
-    "first_name": "Louis",
-    "last_name": "Aliot",
-    "email": "louis.aliot@assemblee-nationale.fr"
-  },
-  {
     "first_name": "Sébastien",
     "last_name": "Cazenove",
     "email": "sebastien.cazenove@assemblee-nationale.fr"
@@ -2433,6 +2413,11 @@
     "first_name": "Romain",
     "last_name": "Grau",
     "email": "romain.grau@assemblee-nationale.fr"
+  },
+  {
+    "first_name": "Catherine",
+    "last_name": "Pujol",
+    "email": ""
   },
   {
     "first_name": "Philippe",
@@ -2452,7 +2437,7 @@
   {
     "first_name": "Sylvia",
     "last_name": "Pinel",
-    "email": "sylvia.pinel@assemblee-nationale.fr"
+    "email": ""
   },
   {
     "first_name": "Valérie",
@@ -2630,8 +2615,8 @@
     "email": "delphine.bagarry@assemblee-nationale.fr"
   },
   {
-    "first_name": "Emmanuelle",
-    "last_name": "Fontaine-Domeizel",
+    "first_name": "Christophe",
+    "last_name": "Castaner",
     "email": ""
   },
   {
@@ -2770,6 +2755,11 @@
     "email": "joel.giraud@assemblee-nationale.fr"
   },
   {
+    "first_name": "Edith",
+    "last_name": "Audibert",
+    "email": ""
+  },
+  {
     "first_name": "Valérie",
     "last_name": "Gomez-Bassac",
     "email": "valerie.gomez-bassac@assemblee-nationale.fr"
@@ -2783,11 +2773,6 @@
     "first_name": "Geneviève",
     "last_name": "Levy",
     "email": "genevieve.levy@assemblee-nationale.fr"
-  },
-  {
-    "first_name": "Jean-Louis",
-    "last_name": "Masson",
-    "email": "jean-louis.masson@assemblee-nationale.fr"
   },
   {
     "first_name": "Fabien",
@@ -2825,8 +2810,8 @@
     "email": ""
   },
   {
-    "first_name": "Adrien",
-    "last_name": "Morenas",
+    "first_name": "Brune",
+    "last_name": "Poirson",
     "email": ""
   },
   {
@@ -2835,24 +2820,19 @@
     "email": ""
   },
   {
-    "first_name": "Ericka",
-    "last_name": "Bareigts",
-    "email": "ericka.bareigts@assemblee-nationale.fr"
-  },
-  {
     "first_name": "Nathalie",
     "last_name": "Bassire",
     "email": "nathalie.bassire@assemblee-nationale.fr"
   },
   {
-    "first_name": "Huguette",
-    "last_name": "Bello",
-    "email": "huguette.bello@assemblee-nationale.fr"
-  },
-  {
     "first_name": "David",
     "last_name": "Lorion",
     "email": "david.lorion@assemblee-nationale.fr"
+  },
+  {
+    "first_name": "Philippe",
+    "last_name": "Naillet",
+    "email": ""
   },
   {
     "first_name": "Jean-Luc",
