@@ -70,5 +70,4 @@ class TownhallsEmailsScrapper
     url_complement = @url_phonebook[0..@url_phonebook.size-16]
     get_townhalls_urls.map { |townhall_url| get_townhall_email(url_complement + townhall_url[2..townhall_url.size-1]) }
   end
-  
 end
