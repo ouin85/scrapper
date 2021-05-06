@@ -3,4 +3,7 @@ This one is a crazy scraper. It collects for you the following datas and saves i
 2. french townhalls emails.
 3. french deputies details.
 
+##### Technologies :
+
+
 Hope my bot serves you very well!
