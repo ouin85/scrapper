@@ -9,4 +9,6 @@ This one is a crazy scraper. It collects for you the following datas and saves i
 - JSON
 - CSV
 
+To try it run : **ruby app.rb**
+
 Hope my bot serves you very well!
